@@ -1,6 +1,8 @@
 body {
    background-color: lightblue;
    font-family: helvetica, arial;
-   width: 430px;
    text-wrap: pretty;
+   margin: auto;
+   width: 640px; 
+   padding: 50px;
 }
